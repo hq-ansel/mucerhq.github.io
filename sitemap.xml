@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mucerhq.github.io/2020/03/07/di-yi-pian-wen-zhang/</loc>
+    
+    <lastmod>2020-03-07T11:07:29.172Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mucerhq.github.io/tags/index.html</loc>
     
     <lastmod>2020-03-07T09:53:33.934Z</lastmod>
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://mucerhq.github.io/friends/index.html</loc>
+    <loc>https://mucerhq.github.io/contact/index.html</loc>
     
     <lastmod>2020-03-07T09:53:33.933Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mucerhq.github.io/contact/index.html</loc>
+    <loc>https://mucerhq.github.io/friends/index.html</loc>
     
     <lastmod>2020-03-07T09:53:33.933Z</lastmod>
     
